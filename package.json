@@ -1,0 +1,22 @@
+{
+    "name": "y",
+    "displayName": "ConsoleCast Theme",
+    "description": "Theme created by ConsoleCast.com",
+    "version": "0.0.1",
+    "repository": "https://github.com/consolecast/vscode-theme",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ConsoleCast Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ConsoleCast Theme-color-theme.json"
+            }
+        ]
+    }
+}
