@@ -1,9 +1,10 @@
 {
-    "name": "y",
+    "name": "consolecast-theme",
     "displayName": "ConsoleCast Theme",
     "description": "Theme created by ConsoleCast.com",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "repository": "https://github.com/consolecast/vscode-theme",
+    "publisher": "consolecast",
     "engines": {
         "vscode": "^1.68.0"
     },
